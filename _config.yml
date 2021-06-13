@@ -1,11 +1,11 @@
 # Site settings
 author: Roshanak Agahi
-title: 
+title: RoshNotes
 header-img: img/home-bg.png
 email: rosh.agahi@gmail.com
 copyright_name: Roshanak Agahi
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Decrypting the Code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rosh-agahi
